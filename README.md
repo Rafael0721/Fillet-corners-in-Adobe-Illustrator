@@ -10,20 +10,19 @@ Including the following steps:
    
    >>Then using similar triangles to check coordinates of center points.
    
-   ![sketch4](https://user-images.githubusercontent.com/14371547/82036939-7221a300-96dc-11ea-9d0c-741f76c10601.jpg)
-   AB:AC = BD:DC
+   ![sketch4](https://user-images.githubusercontent.com/14371547/82036939-7221a300-96dc-11ea-9d0c-741f76c10601.jpg)<br />
+   AB:AC = BD:DC<br />
    
-   ![sketch1](https://user-images.githubusercontent.com/14371547/82037008-89f92700-96dc-11ea-9955-eba8136153cf.jpg)
-   Get the coordinate of point D(x, y)
+   ![sketch1](https://user-images.githubusercontent.com/14371547/82037008-89f92700-96dc-11ea-9955-eba8136153cf.jpg)<br />
+   Get the coordinate of point D(x, y)<br />
    
-   ![sketch2](https://user-images.githubusercontent.com/14371547/82037043-98474300-96dc-11ea-976c-5f90d9d1a543.jpg)
-   AO(radius of fillet):AD = OG:DH = AG:AH
-   Get the coordinate of point O(x, y) -> the center point
+   ![sketch2](https://user-images.githubusercontent.com/14371547/82037043-98474300-96dc-11ea-976c-5f90d9d1a543.jpg)<br />
+   AO(radius of fillet):AD = OG:DH = AG:AH<br />
+   Get the coordinate of point O(x, y) -> the center point<br />
    
 4. (Optional) Checking the vector of each corner by Cross product(+ or -). 
-   >> https://en.wikipedia.org/wiki/Cross_product
+   >> Reference: https://en.wikipedia.org/wiki/Cross_product
    
 5. Generating circles & group with recorded path/compoundPath data.
 6. app.ExecuteMenuCommand("Live Pathfinder Subtract") for each group.
-   ![123](https://user-images.githubusercontent.com/14371547/82038052-edd01f80-96dd-11ea-9491-9a4f9c4adb00.JPG)
-   
+   ![123](https://user-images.githubusercontent.com/14371547/82038052-edd01f80-96dd-11ea-9491-9a4f9c4adb00.JPG)<br />
