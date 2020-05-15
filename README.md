@@ -3,7 +3,7 @@ Making different type of fillet with JavaScript in Adobe Illustrator<br />
 This method requires three coordinates(x, y) and the radius of fillet.<br />
 
 The JSX file contains different types of fillet, including normal-type, dog-bone, type-A, type-B, type-H, type-I.<br />
-dog-bone is the basic form of all type.
+dog-bone is the basic form of all types.
 
 Each type includes the following steps:
 1. Extracting points data from the pathItems/compoundItems.
