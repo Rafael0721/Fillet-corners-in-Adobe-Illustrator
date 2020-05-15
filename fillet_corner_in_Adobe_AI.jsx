@@ -3,6 +3,10 @@
 
 var scaleRate = 2.83464566929135;
 
+// how to call
+// fillet("6.35/dog");
+
+fillet(content)
 function fillet(content){
   var doc = app.activeDocument;
   var pathItems = doc.pathItems;
