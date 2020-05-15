@@ -25,4 +25,5 @@ Including the following steps:
    
 5. Generating circles & group with recorded path/compoundPath data.
 6. ExecuteMenuCommand() for each group.
+   ![123](https://user-images.githubusercontent.com/14371547/82038052-edd01f80-96dd-11ea-9491-9a4f9c4adb00.JPG)
    
