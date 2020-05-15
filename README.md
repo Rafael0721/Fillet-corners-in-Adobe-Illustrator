@@ -1,7 +1,10 @@
 # Fillet-corners-in-Adobe-Illustrator
 making different type of fillet with JavaScript in Adobe Illustrator
 
-Including the following steps: 
+The JSX file contains different types of fillet, including normal-type, dog-bone, type-A, type-B, type-H, type-I.<br />
+dog-bone is the basic form of all type.
+
+Each type includes the following steps:
 1. Extracting points data from the pathItems/compoundItems.
 2. Recording each path/compoundPath data with the same order as the extracted points. (For final merge)
 3. Finding the right position(center point) to add circles based on each corner.
