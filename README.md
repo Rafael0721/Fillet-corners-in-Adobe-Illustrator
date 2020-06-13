@@ -20,8 +20,8 @@ Each type includes the following steps:
    ![sketch1](https://user-images.githubusercontent.com/14371547/82037008-89f92700-96dc-11ea-9955-eba8136153cf.jpg)<br />
    Get the coordinate of point D(x, y)<br />
 
-   ![sketch2](https://user-images.githubusercontent.com/14371547/82037043-98474300-96dc-11ea-976c-5f90d9d1a543.jpg)<br />
-   AO(radius of fillet):AD = OG:DH = AG:AH<br />
+   ![sketch2](https://user-images.githubusercontent.com/14371547/84563145-5b7e7280-ad94-11ea-9d0b-19d6f3c3c6b2.jpg)<br />
+   AO(radius of fillet):OD = OG:DI = AG:GH<br />
    Get the coordinate of point O(x, y) -> the center point<br />
 
 4. (Optional) Checking the vector of each corner by Cross product(+ or -).
